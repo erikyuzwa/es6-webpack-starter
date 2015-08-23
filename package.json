@@ -1,0 +1,13 @@
+{
+  "name": "rpgclient",
+  "version": "1.0.0",
+  "description": "a sample project for using es6, babel, and webpack",
+  "author": "erik@erikyuzwa.com",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "node-libs-browser": "*",
+    "webpack": "*"
+  }
+}
