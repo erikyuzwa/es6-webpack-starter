@@ -6,6 +6,8 @@ it useful as well. Released under the MIT license, so do what you please.
 
 in the `/scripts` folder is one way to structure your classes. 
 
+Original inspiration for this came from: [http://www.2ality.com/2015/04/webpack-es6.html]
+
 # setting up
 
 * `npm install`
